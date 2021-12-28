@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 1062_clip)(type KiCad)(uri ${KIPRJMOD}/1062_clip.pretty)(options "")(descr ""))
+  (lib (name jolt)(type KiCad)(uri ${KIPRJMOD}/jolt.pretty)(options "")(descr ""))
+)

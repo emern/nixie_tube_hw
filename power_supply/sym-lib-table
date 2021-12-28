@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 1062)(type Legacy)(uri ${KIPRJMOD}/1062.lib)(options "")(descr ""))
+  (lib (name nixie_supply_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/nixie_supply_v1-rescue.lib)(options "")(descr ""))
+)
